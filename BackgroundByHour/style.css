@@ -1,0 +1,20 @@
+body{
+    background-color: #ccc;
+    background-size: cover;
+
+}
+#clock{
+    font-family: 'Rampart One', cursive;
+    font-weight: bold;
+    font-size: 64px;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+
+#message{
+    font-family: 'Rampart One', cursive;
+    font-weight: bold;
+    font-size: 64px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
